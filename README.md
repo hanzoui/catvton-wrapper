@@ -1,4 +1,4 @@
-# Hanzo Studio_CatVTON_Wrapper
+# HanzoStudio_CatVTON_Wrapper
 
 CatVTON warpper for Hanzo Studio. fixed the cropping issue of images with different proportions input.    
 
@@ -11,11 +11,11 @@ It is recommend use 6G or higher VRAM NVidia GPU device to run.
 ### Install Plugin
 Open the cmd window in the plugin directory of Hanzo Studio, like Hanzo Studio\custom_nodes，type:
 ```
-git clone https://github.com/chflame163/Hanzo Studio_CatVTON_Wrapper.git
+git clone https://github.com/chflame163/HanzoStudio_CatVTON_Wrapper.git
 ```
 
 ### Install Dependency Packages
-Open the cmd window in the Hanzo Studio_CatVTON_Wrapper plugin directory like Hanzo Studio\custom_ Nodes\Hanzo Studio_CatVTON_Wrapper and enter the following command,    
+Open the cmd window in the HanzoStudio_CatVTON_Wrapper plugin directory like Hanzo Studio\custom_ Nodes\HanzoStudio_CatVTON_Wrapper and enter the following command,    
 
 For Hanzo Studio official portable package, type:
 ```
