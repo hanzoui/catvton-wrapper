@@ -1,6 +1,6 @@
-# ComfyUI_CatVTON_Wrapper
+# Hanzo Studio_CatVTON_Wrapper
 
-CatVTON warpper for ComfyUI. fixed the cropping issue of images with different proportions input.    
+CatVTON warpper for Hanzo Studio. fixed the cropping issue of images with different proportions input.    
 
 Original repo: [https://github.com/Zheng-Chong/CatVTON](https://github.com/Zheng-Chong/CatVTON)    
 
@@ -9,19 +9,19 @@ It is recommend use 6G or higher VRAM NVidia GPU device to run.
 ![image](workflow/catvton_example.jpg)     
 
 ### Install Plugin
-Open the cmd window in the plugin directory of ComfyUI, like ComfyUI\custom_nodes，type:
+Open the cmd window in the plugin directory of Hanzo Studio, like Hanzo Studio\custom_nodes，type:
 ```
-git clone https://github.com/chflame163/ComfyUI_CatVTON_Wrapper.git
+git clone https://github.com/chflame163/Hanzo Studio_CatVTON_Wrapper.git
 ```
 
 ### Install Dependency Packages
-Open the cmd window in the ComfyUI_CatVTON_Wrapper plugin directory like ComfyUI\custom_ Nodes\ComfyUI_CatVTON_Wrapper and enter the following command,    
+Open the cmd window in the Hanzo Studio_CatVTON_Wrapper plugin directory like Hanzo Studio\custom_ Nodes\Hanzo Studio_CatVTON_Wrapper and enter the following command,    
 
-For ComfyUI official portable package, type:
+For Hanzo Studio official portable package, type:
 ```
 ..\..\..\python_embeded\python.exe -s -m pip install -r requirements.txt
 ```
-For Aki ComfyUI package, type:
+For Aki Hanzo Studio package, type:
 ```
 ..\..\python\python.exe -s -m pip install -r requirements.txt
 ```

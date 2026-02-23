@@ -1,10 +1,10 @@
-"""Image process functions for ComfyUI nodes
+"""Image process functions for Hanzo Studio nodes
 by chflame https://github.com/chflame163
 
 @author: chflame
 @title: CatVTON_Wrapper
 @nickname: CatVTON_Wrapper
-@description: CatVTON warpper for ComfyUI
+@description: CatVTON warpper for Hanzo Studio
 """
 
 import os
